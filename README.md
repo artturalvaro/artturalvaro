@@ -5,14 +5,14 @@
 My name is Artur Alvaro, I'm 17 years old and I'm from Brazil. Since I was a child I had contact with technology, I was always a boy who wanted to learn at least understand how it worked, I ended up getting to know the program a little late at the age of 15 and since then I have been delving deeper into the subjects, here I share a little of my experiences, I am a beginner in the field and I intend to be more active by deploying more projects soon.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/artturalvaro?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/artturalvaro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/artturalvaro?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -72,6 +72,14 @@ My name is Artur Alvaro, I'm 17 years old and I'm from Brazil. Since I was a chi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Expo" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/expo-original.svg" 
 />
 <img 
     align="left" 
