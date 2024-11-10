@@ -75,11 +75,11 @@ My name is Artur Alvaro, I'm 17 years old and I'm from Brazil. Since I was a chi
 />
 <img 
     align="left" 
-    alt="Expo" 
-    title="Expo"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
